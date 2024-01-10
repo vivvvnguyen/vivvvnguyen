@@ -1,4 +1,4 @@
-![Vivian's Github Profile Banner GIF](/ProfileReadMe/assets/GithubProfileBanner.gif)
+![Vivian's Github Profile Banner GIF](assets/GithubProfileBanner.gif)
 ### About Me:
 - :raised_hands: I am currently open to ...
     -  Software Development Roles (Front-end, Back-end, Fullstack)

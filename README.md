@@ -1,5 +1,5 @@
 ![Vivian's Github Profile Banner GIF](assets/GithubProfileBanner.gif)
-## :memo::pencil: About Me
+## :memo: About Me
 :raised_hands: I am currently open to ...
 -  Software Development Roles (Front-end, Back-end, Fullstack)
 

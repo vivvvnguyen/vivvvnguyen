@@ -2,14 +2,19 @@
 ## :memo: About Me
 :raised_hands: I am currently open to ...
 -  Software Development Roles (Front-end, Back-end, Fullstack)
+- UX/UI Designer Roles
+- Product Management Roles
+- New Opportunities to learn new skills outside of the listed roles!
 
 :thinking: I am currently working on ...
+- Developing my skills as a website coordinator
+- Exploring UX/UI Design and User Accessibility
 - A relationship management application called [Curating Connection](https://github.com/vivvvnguyen/curating-connection) (utilizing MERN)
 
 :star_struck: Fun Facts ...
 - :tennis: I have developed a newfound passion for pickleball! (I used to play tennis)
-- :snowboarder: :lotus_position: I enjoy trying new sports/activities (Bouldering, Cycling, Pilates, Snowboarding)
-- :yum: :stew: I love going out to try new foods 
+- :snowboarder: :lotus_position: I enjoy trying new sports/activities (Pilates, Running, Yoga)
+- :yum: :stew: I love going out to try new foods and learning about different cultures/cuisines
 
 ## :hammer_and_wrench: Technologies and Tools I use
 <p>

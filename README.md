@@ -7,7 +7,7 @@
 - New Opportunities to learn new skills outside of the listed roles!
 
 :thinking: I am currently working on ...
-- Developing my skills as a website coordinator
+- Developing my skills as a Website Coordinator
 - Exploring UX/UI Design and User Accessibility
 - A relationship management application called [Curating Connection](https://github.com/vivvvnguyen/curating-connection) (utilizing MERN)
 
